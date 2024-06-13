@@ -1,0 +1,30 @@
+{
+  "stuff": [
+    {
+      "id": "9d18",
+      "name": "Laptop",
+      "price": "200",
+      "category": "Electronik"
+    },
+    {
+      "id": "d003",
+      "name": "table",
+      "price": "60",
+      "category": "Furniture"
+    }
+  ],
+  "category": [
+    {
+      "id": "b1f8",
+      "name": "Furniture"
+    },
+    {
+      "id": "d064",
+      "name": "Electronik"
+    },
+    {
+      "id": "3017",
+      "name": "Food"
+    }
+  ]
+}
